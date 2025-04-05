@@ -34,137 +34,150 @@ The RRRF approaches RDM from:
 
 What aspect would you like to explore first?
 
-[[Research Lifecycle Framing->Lifecycle Framing Choice]]
-[[Operational/Functional Framing->Operational Framing Choice]]
+[[Research Lifecycle Framing->Lifecycle Framing]]
+[[Operational/Functional Framing->Operational Framing]]
 
-::Lifecycle Framing Choice
+::Lifecycle Framing
 # Research Lifecycle Framing
 
 This framing examines RDM through the lens of the complete research process, from planning to preservation.
 
 Choose a perspective to explore:
 
-[[Researcher Perspective->Lifecycle Researcher Choice]]
-[[Institutional Perspective->Lifecycle Institutional Choice]]
-[[Funder Perspective->Lifecycle Funder Choice]]
-[[Data Steward Perspective->Lifecycle Data Steward Choice]]
-[[End-User Perspective->Lifecycle End-User Choice]]
+[[Researcher Perspective (Lifecycle)->Researcher Lifecycle]]
+[[Institutional Perspective (Lifecycle)->Institutional Lifecycle]]
+[[Funder Perspective (Lifecycle)->Funder Lifecycle]]
+[[Data Steward Perspective (Lifecycle)->DataSteward Lifecycle]]
+[[End-User Perspective (Lifecycle)->EndUser Lifecycle]]
 
 [[Return to Introduction->Introduction]]
 
-::Lifecycle Researcher Choice
-# Researcher Perspective in the Research Lifecycle
-
-Choose an asymptote to explore:
-
-(link-storylet: 1, "No storylets available")
-
-[[Return to Lifecycle Framing->Lifecycle Framing Choice]]
-
-::Lifecycle Institutional Choice
-# Institutional Perspective in the Research Lifecycle
-
-Choose an asymptote to explore:
-
-(link-storylet: 2, "No storylets available")
-
-[[Return to Lifecycle Framing->Lifecycle Framing Choice]]
-
-::Lifecycle Funder Choice
-# Funder Perspective in the Research Lifecycle
-
-Choose an asymptote to explore:
-
-(link-storylet: 3, "No storylets available")
-
-[[Return to Lifecycle Framing->Lifecycle Framing Choice]]
-
-::Lifecycle Data Steward Choice
-# Data Steward Perspective in the Research Lifecycle
-
-Choose an asymptote to explore:
-
-(link-storylet: 4, "No storylets available")
-
-[[Return to Lifecycle Framing->Lifecycle Framing Choice]]
-
-::Lifecycle End-User Choice
-# End-User Perspective in the Research Lifecycle
-
-Choose an asymptote to explore:
-
-(link-storylet: 5, "No storylets available")
-
-[[Return to Lifecycle Framing->Lifecycle Framing Choice]]
-
-::Operational Framing Choice
+::Operational Framing
 # Operational/Functional Framing
 
 This framing examines RDM through the lens of practical implementation and day-to-day operations.
 
 Choose a perspective to explore:
 
-[[Researcher Perspective->Operational Researcher Choice]]
-[[Institutional Perspective->Operational Institutional Choice]]
-[[Funder Perspective->Operational Funder Choice]]
-[[Data Steward Perspective->Operational Data Steward Choice]]
-[[End-User Perspective->Operational End-User Choice]]
+[[Researcher Perspective (Operational)->Researcher Operational]]
+[[Institutional Perspective (Operational)->Institutional Operational]]
+[[Funder Perspective (Operational)->Funder Operational]]
+[[Data Steward Perspective (Operational)->DataSteward Operational]]
+[[End-User Perspective (Operational)->EndUser Operational]]
 
 [[Return to Introduction->Introduction]]
 
-::Operational Researcher Choice
+::Researcher Lifecycle
+# Researcher Perspective in the Research Lifecycle
+
+Choose an aspect to learn about:
+
+[[Open Science->Researcher OpenScience Lifecycle]]
+[[Reproducibility->Researcher Reproducibility Lifecycle]]
+[[Preservation->Researcher Preservation Lifecycle]]
+
+[[Return to Lifecycle Framing->Lifecycle Framing]]
+
+::Institutional Lifecycle
+# Institutional Perspective in the Research Lifecycle
+
+Choose an aspect to learn about:
+
+[[Open Science->Institutional OpenScience Lifecycle]]
+[[Reproducibility->Institutional Reproducibility Lifecycle]]
+[[Preservation->Institutional Preservation Lifecycle]]
+
+[[Return to Lifecycle Framing->Lifecycle Framing]]
+
+::Funder Lifecycle
+# Funder Perspective in the Research Lifecycle
+
+Choose an aspect to learn about:
+
+[[Open Science->Funder OpenScience Lifecycle]]
+[[Reproducibility->Funder Reproducibility Lifecycle]]
+[[Preservation->Funder Preservation Lifecycle]]
+
+[[Return to Lifecycle Framing->Lifecycle Framing]]
+
+::DataSteward Lifecycle
+# Data Steward Perspective in the Research Lifecycle
+
+Choose an aspect to learn about:
+
+[[Open Science->DataSteward OpenScience Lifecycle]]
+[[Reproducibility->DataSteward Reproducibility Lifecycle]]
+[[Preservation->DataSteward Preservation Lifecycle]]
+
+[[Return to Lifecycle Framing->Lifecycle Framing]]
+
+::EndUser Lifecycle
+# End-User Perspective in the Research Lifecycle
+
+Choose an aspect to learn about:
+
+[[Open Science->EndUser OpenScience Lifecycle]]
+[[Reproducibility->EndUser Reproducibility Lifecycle]]
+[[Preservation->EndUser Preservation Lifecycle]]
+
+[[Return to Lifecycle Framing->Lifecycle Framing]]
+
+::Researcher Operational
 # Researcher Perspective in Operational/Functional Framing
 
-Choose an asymptote to explore:
+Choose an aspect to learn about:
 
-(link-storylet: 6, "No storylets available")
+[[Open Science->Researcher OpenScience Operational]]
+[[Reproducibility->Researcher Reproducibility Operational]]
+[[Preservation->Researcher Preservation Operational]]
 
-[[Return to Operational Framing->Operational Framing Choice]]
+[[Return to Operational Framing->Operational Framing]]
 
-::Operational Institutional Choice
+::Institutional Operational
 # Institutional Perspective in Operational/Functional Framing
 
-Choose an asymptote to explore:
+Choose an aspect to learn about:
 
-(link-storylet: 7, "No storylets available")
+[[Open Science->Institutional OpenScience Operational]]
+[[Reproducibility->Institutional Reproducibility Operational]]
+[[Preservation->Institutional Preservation Operational]]
 
-[[Return to Operational Framing->Operational Framing Choice]]
+[[Return to Operational Framing->Operational Framing]]
 
-::Operational Funder Choice
+::Funder Operational
 # Funder Perspective in Operational/Functional Framing
 
-Choose an asymptote to explore:
+Choose an aspect to learn about:
 
-(link-storylet: 8, "No storylets available")
+[[Open Science->Funder OpenScience Operational]]
+[[Reproducibility->Funder Reproducibility Operational]]
+[[Preservation->Funder Preservation Operational]]
 
-[[Return to Operational Framing->Operational Framing Choice]]
+[[Return to Operational Framing->Operational Framing]]
 
-::Operational Data Steward Choice
+::DataSteward Operational
 # Data Steward Perspective in Operational/Functional Framing
 
-Choose an asymptote to explore:
+Choose an aspect to learn about:
 
-(link-storylet: 9, "No storylets available")
+[[Open Science->DataSteward OpenScience Operational]]
+[[Reproducibility->DataSteward Reproducibility Operational]]
+[[Preservation->DataSteward Preservation Operational]]
 
-[[Return to Operational Framing->Operational Framing Choice]]
+[[Return to Operational Framing->Operational Framing]]
 
-::Operational End-User Choice
+::EndUser Operational
 # End-User Perspective in Operational/Functional Framing
 
-Choose an asymptote to explore:
+Choose an aspect to learn about:
 
-(link-storylet: 10, "No storylets available")
+[[Open Science->EndUser OpenScience Operational]]
+[[Reproducibility->EndUser Reproducibility Operational]]
+[[Preservation->EndUser Preservation Operational]]
 
-[[Return to Operational Framing->Operational Framing Choice]]
+[[Return to Operational Framing->Operational Framing]]
 
-::Choice Setup [script]
-(set: $framing to "")
-(set: $perspective to "")
-(set: $asymptote to "")
-
-::Researcher OpenScience Lifecycle [researcher openscience lifecycle]
-(storylet: when $framing is "lifecycle" and $perspective is "researcher")
-
+::Researcher OpenScience Lifecycle
 # Researcher × Open Science in Research Lifecycle
 
 As a researcher, your approach to Open Science within the research lifecycle includes:
@@ -175,12 +188,12 @@ As a researcher, your approach to Open Science within the research lifecycle inc
 
 What would you like to do next?
 
-[[Explore a different asymptote->Lifecycle Researcher Choice]]
-[[Return to Lifecycle Framing->Lifecycle Framing Choice]]
+[[Explore a different asymptote->Researcher Lifecycle]]
+[[Compare with Institutional perspective->Institutional OpenScience Lifecycle]]
+[[Learn how this applies operationally->Researcher OpenScience Operational]]
+[[Return to Lifecycle Framing->Lifecycle Framing]]
 
-::Researcher Reproducibility Lifecycle [researcher reproducibility lifecycle]
-(storylet: when $framing is "lifecycle" and $perspective is "researcher")
-
+::Researcher Reproducibility Lifecycle
 # Researcher × Reproducibility in Research Lifecycle
 
 As a researcher pursuing reproducibility throughout the research lifecycle:
@@ -191,12 +204,12 @@ As a researcher pursuing reproducibility throughout the research lifecycle:
 
 What would you like to do next?
 
-[[Explore a different asymptote->Lifecycle Researcher Choice]]
-[[Return to Lifecycle Framing->Lifecycle Framing Choice]]
+[[Explore a different asymptote->Researcher Lifecycle]]
+[[Compare with Institutional perspective->Institutional Reproducibility Lifecycle]]
+[[Learn how this applies operationally->Researcher Reproducibility Operational]]
+[[Return to Lifecycle Framing->Lifecycle Framing]]
 
-::Researcher Preservation Lifecycle [researcher preservation lifecycle]
-(storylet: when $framing is "lifecycle" and $perspective is "researcher")
-
+::Researcher Preservation Lifecycle
 # Researcher × Preservation in Research Lifecycle
 
 As a researcher focusing on preservation throughout the research lifecycle:
@@ -207,12 +220,12 @@ As a researcher focusing on preservation throughout the research lifecycle:
 
 What would you like to do next?
 
-[[Explore a different asymptote->Lifecycle Researcher Choice]]
-[[Return to Lifecycle Framing->Lifecycle Framing Choice]]
+[[Explore a different asymptote->Researcher Lifecycle]]
+[[Compare with Institutional perspective->Institutional Preservation Lifecycle]]
+[[Learn how this applies operationally->Researcher Preservation Operational]]
+[[Return to Lifecycle Framing->Lifecycle Framing]]
 
-::Institutional OpenScience Lifecycle [institutional openscience lifecycle]
-(storylet: when $framing is "lifecycle" and $perspective is "institutional")
-
+::Institutional OpenScience Lifecycle
 # Institutional × Open Science in Research Lifecycle
 
 From an institutional perspective, supporting Open Science throughout the research lifecycle means:
@@ -223,12 +236,12 @@ From an institutional perspective, supporting Open Science throughout the resear
 
 What would you like to do next?
 
-[[Explore a different asymptote->Lifecycle Institutional Choice]]
-[[Return to Lifecycle Framing->Lifecycle Framing Choice]]
+[[Explore a different asymptote->Institutional Lifecycle]]
+[[Compare with Researcher perspective->Researcher OpenScience Lifecycle]]
+[[Learn how this applies operationally->Institutional OpenScience Operational]]
+[[Return to Lifecycle Framing->Lifecycle Framing]]
 
-::Institutional Reproducibility Lifecycle [institutional reproducibility lifecycle]
-(storylet: when $framing is "lifecycle" and $perspective is "institutional")
-
+::Institutional Reproducibility Lifecycle
 # Institutional × Reproducibility in Research Lifecycle
 
 From an institutional perspective, supporting reproducibility throughout the research lifecycle means:
@@ -239,12 +252,12 @@ From an institutional perspective, supporting reproducibility throughout the res
 
 What would you like to do next?
 
-[[Explore a different asymptote->Lifecycle Institutional Choice]]
-[[Return to Lifecycle Framing->Lifecycle Framing Choice]]
+[[Explore a different asymptote->Institutional Lifecycle]]
+[[Compare with Researcher perspective->Researcher Reproducibility Lifecycle]]
+[[Learn how this applies operationally->Institutional Reproducibility Operational]]
+[[Return to Lifecycle Framing->Lifecycle Framing]]
 
-::Institutional Preservation Lifecycle [institutional preservation lifecycle]
-(storylet: when $framing is "lifecycle" and $perspective is "institutional")
-
+::Institutional Preservation Lifecycle
 # Institutional × Preservation in Research Lifecycle
 
 From an institutional perspective, supporting preservation throughout the research lifecycle means:
@@ -255,12 +268,12 @@ From an institutional perspective, supporting preservation throughout the resear
 
 What would you like to do next?
 
-[[Explore a different asymptote->Lifecycle Institutional Choice]]
-[[Return to Lifecycle Framing->Lifecycle Framing Choice]]
+[[Explore a different asymptote->Institutional Lifecycle]]
+[[Compare with Researcher perspective->Researcher Preservation Lifecycle]]
+[[Learn how this applies operationally->Institutional Preservation Operational]]
+[[Return to Lifecycle Framing->Lifecycle Framing]]
 
-::Funder OpenScience Lifecycle [funder openscience lifecycle]
-(storylet: when $framing is "lifecycle" and $perspective is "funder")
-
+::Funder OpenScience Lifecycle
 # Funder × Open Science in Research Lifecycle
 
 From a funder's perspective, supporting Open Science throughout the research lifecycle means:
@@ -271,12 +284,12 @@ From a funder's perspective, supporting Open Science throughout the research lif
 
 What would you like to do next?
 
-[[Explore a different asymptote->Lifecycle Funder Choice]]
-[[Return to Lifecycle Framing->Lifecycle Framing Choice]]
+[[Explore a different asymptote->Funder Lifecycle]]
+[[Compare with Institutional perspective->Institutional OpenScience Lifecycle]]
+[[Learn how this applies operationally->Funder OpenScience Operational]]
+[[Return to Lifecycle Framing->Lifecycle Framing]]
 
-::Funder Reproducibility Lifecycle [funder reproducibility lifecycle]
-(storylet: when $framing is "lifecycle" and $perspective is "funder")
-
+::Funder Reproducibility Lifecycle
 # Funder × Reproducibility in Research Lifecycle
 
 From a funder's perspective, supporting reproducibility throughout the research lifecycle means:
@@ -287,12 +300,12 @@ From a funder's perspective, supporting reproducibility throughout the research 
 
 What would you like to do next?
 
-[[Explore a different asymptote->Lifecycle Funder Choice]]
-[[Return to Lifecycle Framing->Lifecycle Framing Choice]]
+[[Explore a different asymptote->Funder Lifecycle]]
+[[Compare with Institutional perspective->Institutional Reproducibility Lifecycle]]
+[[Learn how this applies operationally->Funder Reproducibility Operational]]
+[[Return to Lifecycle Framing->Lifecycle Framing]]
 
-::Funder Preservation Lifecycle [funder preservation lifecycle]
-(storylet: when $framing is "lifecycle" and $perspective is "funder")
-
+::Funder Preservation Lifecycle
 # Funder × Preservation in Research Lifecycle
 
 From a funder's perspective, supporting preservation throughout the research lifecycle means:
@@ -303,12 +316,12 @@ From a funder's perspective, supporting preservation throughout the research lif
 
 What would you like to do next?
 
-[[Explore a different asymptote->Lifecycle Funder Choice]]
-[[Return to Lifecycle Framing->Lifecycle Framing Choice]]
+[[Explore a different asymptote->Funder Lifecycle]]
+[[Compare with Institutional perspective->Institutional Preservation Lifecycle]]
+[[Learn how this applies operationally->Funder Preservation Operational]]
+[[Return to Lifecycle Framing->Lifecycle Framing]]
 
-::DataSteward OpenScience Lifecycle [data-steward openscience lifecycle]
-(storylet: when $framing is "lifecycle" and $perspective is "data-steward")
-
+::DataSteward OpenScience Lifecycle
 # Data Steward × Open Science in Research Lifecycle
 
 From a data steward's perspective, supporting Open Science throughout the research lifecycle means:
@@ -319,12 +332,12 @@ From a data steward's perspective, supporting Open Science throughout the resear
 
 What would you like to do next?
 
-[[Explore a different asymptote->Lifecycle Data Steward Choice]]
-[[Return to Lifecycle Framing->Lifecycle Framing Choice]]
+[[Explore a different asymptote->DataSteward Lifecycle]]
+[[Compare with Researcher perspective->Researcher OpenScience Lifecycle]]
+[[Learn how this applies operationally->DataSteward OpenScience Operational]]
+[[Return to Lifecycle Framing->Lifecycle Framing]]
 
-::DataSteward Reproducibility Lifecycle [data-steward reproducibility lifecycle]
-(storylet: when $framing is "lifecycle" and $perspective is "data-steward")
-
+::DataSteward Reproducibility Lifecycle
 # Data Steward × Reproducibility in Research Lifecycle
 
 From a data steward's perspective, supporting reproducibility throughout the research lifecycle means:
@@ -335,12 +348,12 @@ From a data steward's perspective, supporting reproducibility throughout the res
 
 What would you like to do next?
 
-[[Explore a different asymptote->Lifecycle Data Steward Choice]]
-[[Return to Lifecycle Framing->Lifecycle Framing Choice]]
+[[Explore a different asymptote->DataSteward Lifecycle]]
+[[Compare with Researcher perspective->Researcher Reproducibility Lifecycle]]
+[[Learn how this applies operationally->DataSteward Reproducibility Operational]]
+[[Return to Lifecycle Framing->Lifecycle Framing]]
 
-::DataSteward Preservation Lifecycle [data-steward preservation lifecycle]
-(storylet: when $framing is "lifecycle" and $perspective is "data-steward")
-
+::DataSteward Preservation Lifecycle
 # Data Steward × Preservation in Research Lifecycle
 
 From a data steward's perspective, supporting preservation throughout the research lifecycle means:
@@ -351,12 +364,12 @@ From a data steward's perspective, supporting preservation throughout the resear
 
 What would you like to do next?
 
-[[Explore a different asymptote->Lifecycle Data Steward Choice]]
-[[Return to Lifecycle Framing->Lifecycle Framing Choice]]
+[[Explore a different asymptote->DataSteward Lifecycle]]
+[[Compare with Researcher perspective->Researcher Preservation Lifecycle]]
+[[Learn how this applies operationally->DataSteward Preservation Operational]]
+[[Return to Lifecycle Framing->Lifecycle Framing]]
 
-::EndUser OpenScience Lifecycle [end-user openscience lifecycle]
-(storylet: when $framing is "lifecycle" and $perspective is "end-user")
-
+::EndUser OpenScience Lifecycle
 # End-User × Open Science in Research Lifecycle
 
 From an end-user's perspective, engaging with Open Science throughout the research lifecycle means:
@@ -367,12 +380,12 @@ From an end-user's perspective, engaging with Open Science throughout the resear
 
 What would you like to do next?
 
-[[Explore a different asymptote->Lifecycle End-User Choice]]
-[[Return to Lifecycle Framing->Lifecycle Framing Choice]]
+[[Explore a different asymptote->EndUser Lifecycle]]
+[[Compare with Data Steward perspective->DataSteward OpenScience Lifecycle]]
+[[Learn how this applies operationally->EndUser OpenScience Operational]]
+[[Return to Lifecycle Framing->Lifecycle Framing]]
 
-::EndUser Reproducibility Lifecycle [end-user reproducibility lifecycle]
-(storylet: when $framing is "lifecycle" and $perspective is "end-user")
-
+::EndUser Reproducibility Lifecycle
 # End-User × Reproducibility in Research Lifecycle
 
 From an end-user's perspective, engaging with reproducibility throughout the research lifecycle means:
@@ -383,12 +396,12 @@ From an end-user's perspective, engaging with reproducibility throughout the res
 
 What would you like to do next?
 
-[[Explore a different asymptote->Lifecycle End-User Choice]]
-[[Return to Lifecycle Framing->Lifecycle Framing Choice]]
+[[Explore a different asymptote->EndUser Lifecycle]]
+[[Compare with Data Steward perspective->DataSteward Reproducibility Lifecycle]]
+[[Learn how this applies operationally->EndUser Reproducibility Operational]]
+[[Return to Lifecycle Framing->Lifecycle Framing]]
 
-::EndUser Preservation Lifecycle [end-user preservation lifecycle]
-(storylet: when $framing is "lifecycle" and $perspective is "end-user")
-
+::EndUser Preservation Lifecycle
 # End-User × Preservation in Research Lifecycle
 
 From an end-user's perspective, engaging with preservation throughout the research lifecycle means:
@@ -399,12 +412,12 @@ From an end-user's perspective, engaging with preservation throughout the resear
 
 What would you like to do next?
 
-[[Explore a different asymptote->Lifecycle End-User Choice]]
-[[Return to Lifecycle Framing->Lifecycle Framing Choice]]
+[[Explore a different asymptote->EndUser Lifecycle]]
+[[Compare with Data Steward perspective->DataSteward Preservation Lifecycle]]
+[[Learn how this applies operationally->EndUser Preservation Operational]]
+[[Return to Lifecycle Framing->Lifecycle Framing]]
 
-::Researcher OpenScience Operational [researcher openscience operational]
-(storylet: when $framing is "operational" and $perspective is "researcher")
-
+::Researcher OpenScience Operational
 # Researcher × Open Science in Operational/Functional Framing
 
 As a researcher operationalizing Open Science:
@@ -415,12 +428,12 @@ As a researcher operationalizing Open Science:
 
 What would you like to do next?
 
-[[Explore a different asymptote->Operational Researcher Choice]]
-[[Return to Operational Framing->Operational Framing Choice]]
+[[Explore a different asymptote->Researcher Operational]]
+[[Compare with lifecycle approach->Researcher OpenScience Lifecycle]]
+[[Compare with Institutional perspective->Institutional OpenScience Operational]]
+[[Return to Operational Framing->Operational Framing]]
 
-::Researcher Reproducibility Operational [researcher reproducibility operational]
-(storylet: when $framing is "operational" and $perspective is "researcher")
-
+::Researcher Reproducibility Operational
 # Researcher × Reproducibility in Operational/Functional Framing
 
 As a researcher operationalizing reproducibility:
@@ -431,12 +444,12 @@ As a researcher operationalizing reproducibility:
 
 What would you like to do next?
 
-[[Explore a different asymptote->Operational Researcher Choice]]
-[[Return to Operational Framing->Operational Framing Choice]]
+[[Explore a different asymptote->Researcher Operational]]
+[[Compare with lifecycle approach->Researcher Reproducibility Lifecycle]]
+[[Compare with Institutional perspective->Institutional Reproducibility Operational]]
+[[Return to Operational Framing->Operational Framing]]
 
-::Researcher Preservation Operational [researcher preservation operational]
-(storylet: when $framing is "operational" and $perspective is "researcher")
-
+::Researcher Preservation Operational
 # Researcher × Preservation in Operational/Functional Framing
 
 As a researcher operationalizing preservation:
@@ -447,12 +460,12 @@ As a researcher operationalizing preservation:
 
 What would you like to do next?
 
-[[Explore a different asymptote->Operational Researcher Choice]]
-[[Return to Operational Framing->Operational Framing Choice]]
+[[Explore a different asymptote->Researcher Operational]]
+[[Compare with lifecycle approach->Researcher Preservation Lifecycle]]
+[[Compare with Institutional perspective->Institutional Preservation Operational]]
+[[Return to Operational Framing->Operational Framing]]
 
-::Institutional OpenScience Operational [institutional openscience operational]
-(storylet: when $framing is "operational" and $perspective is "institutional")
-
+::Institutional OpenScience Operational
 # Institutional × Open Science in Operational/Functional Framing
 
 From an institutional perspective, operationalizing Open Science means:
@@ -463,12 +476,12 @@ From an institutional perspective, operationalizing Open Science means:
 
 What would you like to do next?
 
-[[Explore a different asymptote->Operational Institutional Choice]]
-[[Return to Operational Framing->Operational Framing Choice]]
+[[Explore a different asymptote->Institutional Operational]]
+[[Compare with lifecycle approach->Institutional OpenScience Lifecycle]]
+[[Compare with Researcher perspective->Researcher OpenScience Operational]]
+[[Return to Operational Framing->Operational Framing]]
 
-::Institutional Reproducibility Operational [institutional reproducibility operational]
-(storylet: when $framing is "operational" and $perspective is "institutional")
-
+::Institutional Reproducibility Operational
 # Institutional × Reproducibility in Operational/Functional Framing
 
 From an institutional perspective, operationalizing reproducibility means:
@@ -479,12 +492,12 @@ From an institutional perspective, operationalizing reproducibility means:
 
 What would you like to do next?
 
-[[Explore a different asymptote->Operational Institutional Choice]]
-[[Return to Operational Framing->Operational Framing Choice]]
+[[Explore a different asymptote->Institutional Operational]]
+[[Compare with lifecycle approach->Institutional Reproducibility Lifecycle]]
+[[Compare with Researcher perspective->Researcher Reproducibility Operational]]
+[[Return to Operational Framing->Operational Framing]]
 
-::Institutional Preservation Operational [institutional preservation operational]
-(storylet: when $framing is "operational" and $perspective is "institutional")
-
+::Institutional Preservation Operational
 # Institutional × Preservation in Operational/Functional Framing
 
 From an institutional perspective, operationalizing preservation means:
@@ -495,12 +508,12 @@ From an institutional perspective, operationalizing preservation means:
 
 What would you like to do next?
 
-[[Explore a different asymptote->Operational Institutional Choice]]
-[[Return to Operational Framing->Operational Framing Choice]]
+[[Explore a different asymptote->Institutional Operational]]
+[[Compare with lifecycle approach->Institutional Preservation Lifecycle]]
+[[Compare with Researcher perspective->Researcher Preservation Operational]]
+[[Return to Operational Framing->Operational Framing]]
 
-::Funder OpenScience Operational [funder openscience operational]
-(storylet: when $framing is "operational" and $perspective is "funder")
-
+::Funder OpenScience Operational
 # Funder × Open Science in Operational/Functional Framing
 
 From a funder's perspective, operationalizing Open Science means:
@@ -511,12 +524,12 @@ From a funder's perspective, operationalizing Open Science means:
 
 What would you like to do next?
 
-[[Explore a different asymptote->Operational Funder Choice]]
-[[Return to Operational Framing->Operational Framing Choice]]
+[[Explore a different asymptote->Funder Operational]]
+[[Compare with lifecycle approach->Funder OpenScience Lifecycle]]
+[[Compare with Institutional perspective->Institutional OpenScience Operational]]
+[[Return to Operational Framing->Operational Framing]]
 
-::Funder Reproducibility Operational [funder reproducibility operational]
-(storylet: when $framing is "operational" and $perspective is "funder")
-
+::Funder Reproducibility Operational
 # Funder × Reproducibility in Operational/Functional Framing
 
 From a funder's perspective, operationalizing reproducibility means:
@@ -527,12 +540,12 @@ From a funder's perspective, operationalizing reproducibility means:
 
 What would you like to do next?
 
-[[Explore a different asymptote->Operational Funder Choice]]
-[[Return to Operational Framing->Operational Framing Choice]]
+[[Explore a different asymptote->Funder Operational]]
+[[Compare with lifecycle approach->Funder Reproducibility Lifecycle]]
+[[Compare with Institutional perspective->Institutional Reproducibility Operational]]
+[[Return to Operational Framing->Operational Framing]]
 
-::Funder Preservation Operational [funder preservation operational]
-(storylet: when $framing is "operational" and $perspective is "funder")
-
+::Funder Preservation Operational
 # Funder × Preservation in Operational/Functional Framing
 
 From a funder's perspective, operationalizing preservation means:
@@ -543,12 +556,12 @@ From a funder's perspective, operationalizing preservation means:
 
 What would you like to do next?
 
-[[Explore a different asymptote->Operational Funder Choice]]
-[[Return to Operational Framing->Operational Framing Choice]]
+[[Explore a different asymptote->Funder Operational]]
+[[Compare with lifecycle approach->Funder Preservation Lifecycle]]
+[[Compare with Institutional perspective->Institutional Preservation Operational]]
+[[Return to Operational Framing->Operational Framing]]
 
-::DataSteward OpenScience Operational [data-steward openscience operational]
-(storylet: when $framing is "operational" and $perspective is "data-steward")
-
+::DataSteward OpenScience Operational
 # Data Steward × Open Science in Operational/Functional Framing
 
 From a data steward's perspective, operationalizing Open Science means:
@@ -559,12 +572,12 @@ From a data steward's perspective, operationalizing Open Science means:
 
 What would you like to do next?
 
-[[Explore a different asymptote->Operational Data Steward Choice]]
-[[Return to Operational Framing->Operational Framing Choice]]
+[[Explore a different asymptote->DataSteward Operational]]
+[[Compare with lifecycle approach->DataSteward OpenScience Lifecycle]]
+[[Compare with Researcher perspective->Researcher OpenScience Operational]]
+[[Return to Operational Framing->Operational Framing]]
 
-::DataSteward Reproducibility Operational [data-steward reproducibility operational]
-(storylet: when $framing is "operational" and $perspective is "data-steward")
-
+::DataSteward Reproducibility Operational
 # Data Steward × Reproducibility in Operational/Functional Framing
 
 From a data steward's perspective, operationalizing reproducibility means:
@@ -575,12 +588,12 @@ From a data steward's perspective, operationalizing reproducibility means:
 
 What would you like to do next?
 
-[[Explore a different asymptote->Operational Data Steward Choice]]
-[[Return to Operational Framing->Operational Framing Choice]]
+[[Explore a different asymptote->DataSteward Operational]]
+[[Compare with lifecycle approach->DataSteward Reproducibility Lifecycle]]
+[[Compare with Researcher perspective->Researcher Reproducibility Operational]]
+[[Return to Operational Framing->Operational Framing]]
 
-::DataSteward Preservation Operational [data-steward preservation operational]
-(storylet: when $framing is "operational" and $perspective is "data-steward")
-
+::DataSteward Preservation Operational
 # Data Steward × Preservation in Operational/Functional Framing
 
 From a data steward's perspective, operationalizing preservation means:
@@ -591,12 +604,12 @@ From a data steward's perspective, operationalizing preservation means:
 
 What would you like to do next?
 
-[[Explore a different asymptote->Operational Data Steward Choice]]
-[[Return to Operational Framing->Operational Framing Choice]]
+[[Explore a different asymptote->DataSteward Operational]]
+[[Compare with lifecycle approach->DataSteward Preservation Lifecycle]]
+[[Compare with Researcher perspective->Researcher Preservation Operational]]
+[[Return to Operational Framing->Operational Framing]]
 
-::EndUser OpenScience Operational [end-user openscience operational]
-(storylet: when $framing is "operational" and $perspective is "end-user")
-
+::EndUser OpenScience Operational
 # End-User × Open Science in Operational/Functional Framing
 
 From an end-user's perspective, operationalizing Open Science means:
@@ -607,12 +620,12 @@ From an end-user's perspective, operationalizing Open Science means:
 
 What would you like to do next?
 
-[[Explore a different asymptote->Operational End-User Choice]]
-[[Return to Operational Framing->Operational Framing Choice]]
+[[Explore a different asymptote->EndUser Operational]]
+[[Compare with lifecycle approach->EndUser OpenScience Lifecycle]]
+[[Compare with Data Steward perspective->DataSteward OpenScience Operational]]
+[[Return to Operational Framing->Operational Framing]]
 
-::EndUser Reproducibility Operational [end-user reproducibility operational]
-(storylet: when $framing is "operational" and $perspective is "end-user")
-
+::EndUser Reproducibility Operational
 # End-User × Reproducibility in Operational/Functional Framing
 
 From an end-user's perspective, operationalizing reproducibility means:
@@ -623,12 +636,12 @@ From an end-user's perspective, operationalizing reproducibility means:
 
 What would you like to do next?
 
-[[Explore a different asymptote->Operational End-User Choice]]
-[[Return to Operational Framing->Operational Framing Choice]]
+[[Explore a different asymptote->EndUser Operational]]
+[[Compare with lifecycle approach->EndUser Reproducibility Lifecycle]]
+[[Compare with Data Steward perspective->DataSteward Reproducibility Operational]]
+[[Return to Operational Framing->Operational Framing]]
 
-::EndUser Preservation Operational [end-user preservation operational]
-(storylet: when $framing is "operational" and $perspective is "end-user")
-
+::EndUser Preservation Operational
 # End-User × Preservation in Operational/Functional Framing
 
 From an end-user's perspective, operationalizing preservation means:
@@ -639,48 +652,10 @@ From an end-user's perspective, operationalizing preservation means:
 
 What would you like to do next?
 
-[[Explore a different asymptote->Operational End-User Choice]]
-[[Return to Operational Framing->Operational Framing Choice]]
-
-::Lifecycle Researcher Setup [script]
-(set: $framing to "lifecycle")
-(set: $perspective to "researcher")
-
-::Lifecycle Institutional Setup [script]
-(set: $framing to "lifecycle")
-(set: $perspective to "institutional")
-
-::Lifecycle Funder Setup [script]
-(set: $framing to "lifecycle")
-(set: $perspective to "funder")
-
-::Lifecycle DataSteward Setup [script]
-(set: $framing to "lifecycle")
-(set: $perspective to "data-steward")
-
-::Lifecycle EndUser Setup [script]
-(set: $framing to "lifecycle")
-(set: $perspective to "end-user")
-
-::Operational Researcher Setup [script]
-(set: $framing to "operational")
-(set: $perspective to "researcher")
-
-::Operational Institutional Setup [script]
-(set: $framing to "operational")
-(set: $perspective to "institutional")
-
-::Operational Funder Setup [script]
-(set: $framing to "operational")
-(set: $perspective to "funder")
-
-::Operational DataSteward Setup [script]
-(set: $framing to "operational")
-(set: $perspective to "data-steward")
-
-::Operational EndUser Setup [script]
-(set: $framing to "operational")
-(set: $perspective to "end-user")
+[[Explore a different asymptote->EndUser Operational]]
+[[Compare with lifecycle approach->EndUser Preservation Lifecycle]]
+[[Compare with Data Steward perspective->DataSteward Preservation Operational]]
+[[Return to Operational Framing->Operational Framing]]
 
 ::stylesheet [stylesheet]
 body {
