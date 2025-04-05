@@ -1,0 +1,37 @@
+:: Start
+You're about to explore Research Data Management concepts using the Reprojection Rubric Reference Frame.
+
+What aspect of your research are you most concerned with right now?
+
+(cycling-link: bind $focus, "Planning", "Collecting", "Organizing", "Preserving", "Sharing")
+
+What is your primary role?
+(cycling-link: bind $perspective, "Researcher", "Institution", "Funder", "Data Steward", "End-User")
+
+What ideal is most important to you?
+(cycling-link: bind $asymptote, "Open Science", "Reproducibility", "Preservation")
+
+[[Explore Available Cards]]
+
+:: Explore Available Cards
+Based on your interests, here are some relevant exploration cards:
+
+(link-storylet: 1, "No cards match your interests")
+(link-storylet: 2, "No cards match your interests")
+(link-storylet: 3, "No cards match your interests")
+
+:: Example Researcher-Planning-OpenScience {"position":"600,400"}
+(storylet: when $focus is "Planning" and $perspective is "Researcher" and $asymptote is "Open Science")
+
+# Planning for Open Humanities Research
+
+As a researcher planning your project with open science in mind, consider:
+
+* Document your methodology before collection begins
+* Plan for participant consent that allows data sharing
+* Consider how qualitative data can be responsibly shared
+
+[Additional content specific to humanities researchers]
+
+[[Return to exploration->Explore Available Cards]]
+[[Change your focus->Start]]

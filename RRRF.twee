@@ -1,0 +1,725 @@
+::StoryTitle
+Reprojection Rubric Reference Frame (RRRF)
+
+::StoryData
+{
+  "ifid": "D674C58C-DEFA-4F70-B7A2-27742230C0FC",
+  "format": "Harlowe",
+  "format-version": "3.3.0",
+  "start": "Introduction",
+  "tag-colors": {
+    "researcher": "green",
+    "institutional": "red",
+    "funder": "blue",
+    "data-steward": "purple",
+    "end-user": "orange",
+    "openscience": "green",
+    "reproducibility": "blue",
+    "preservation": "purple",
+    "lifecycle": "yellow",
+    "operational": "cyan"
+  },
+  "zoom": 1
+}
+
+::Introduction
+# The Reprojection Rubric Reference Frame (RRRF)
+
+Welcome to the interactive exploration of Research Data Management through the RRRF matrix.
+
+The RRRF approaches RDM from:
+* 2 Framings: Research Lifecycle and Operational/Functional
+* 5 Perspectives: Researcher, Institutional, Funder, Data Steward, End-User/Public
+* 3 Asymptotes: Open Science Ideal, Perfect Reproducibility, Perpetual Preservation
+
+What aspect would you like to explore first?
+
+[[Research Lifecycle Framing->Lifecycle Framing Choice]]
+[[Operational/Functional Framing->Operational Framing Choice]]
+
+::Lifecycle Framing Choice
+# Research Lifecycle Framing
+
+This framing examines RDM through the lens of the complete research process, from planning to preservation.
+
+Choose a perspective to explore:
+
+[[Researcher Perspective->Lifecycle Researcher Choice]]
+[[Institutional Perspective->Lifecycle Institutional Choice]]
+[[Funder Perspective->Lifecycle Funder Choice]]
+[[Data Steward Perspective->Lifecycle Data Steward Choice]]
+[[End-User Perspective->Lifecycle End-User Choice]]
+
+[[Return to Introduction->Introduction]]
+
+::Lifecycle Researcher Choice
+# Researcher Perspective in the Research Lifecycle
+
+Choose an asymptote to explore:
+
+(link-storylet: 1, "No storylets available")
+
+[[Return to Lifecycle Framing->Lifecycle Framing Choice]]
+
+::Lifecycle Institutional Choice
+# Institutional Perspective in the Research Lifecycle
+
+Choose an asymptote to explore:
+
+(link-storylet: 2, "No storylets available")
+
+[[Return to Lifecycle Framing->Lifecycle Framing Choice]]
+
+::Lifecycle Funder Choice
+# Funder Perspective in the Research Lifecycle
+
+Choose an asymptote to explore:
+
+(link-storylet: 3, "No storylets available")
+
+[[Return to Lifecycle Framing->Lifecycle Framing Choice]]
+
+::Lifecycle Data Steward Choice
+# Data Steward Perspective in the Research Lifecycle
+
+Choose an asymptote to explore:
+
+(link-storylet: 4, "No storylets available")
+
+[[Return to Lifecycle Framing->Lifecycle Framing Choice]]
+
+::Lifecycle End-User Choice
+# End-User Perspective in the Research Lifecycle
+
+Choose an asymptote to explore:
+
+(link-storylet: 5, "No storylets available")
+
+[[Return to Lifecycle Framing->Lifecycle Framing Choice]]
+
+::Operational Framing Choice
+# Operational/Functional Framing
+
+This framing examines RDM through the lens of practical implementation and day-to-day operations.
+
+Choose a perspective to explore:
+
+[[Researcher Perspective->Operational Researcher Choice]]
+[[Institutional Perspective->Operational Institutional Choice]]
+[[Funder Perspective->Operational Funder Choice]]
+[[Data Steward Perspective->Operational Data Steward Choice]]
+[[End-User Perspective->Operational End-User Choice]]
+
+[[Return to Introduction->Introduction]]
+
+::Operational Researcher Choice
+# Researcher Perspective in Operational/Functional Framing
+
+Choose an asymptote to explore:
+
+(link-storylet: 6, "No storylets available")
+
+[[Return to Operational Framing->Operational Framing Choice]]
+
+::Operational Institutional Choice
+# Institutional Perspective in Operational/Functional Framing
+
+Choose an asymptote to explore:
+
+(link-storylet: 7, "No storylets available")
+
+[[Return to Operational Framing->Operational Framing Choice]]
+
+::Operational Funder Choice
+# Funder Perspective in Operational/Functional Framing
+
+Choose an asymptote to explore:
+
+(link-storylet: 8, "No storylets available")
+
+[[Return to Operational Framing->Operational Framing Choice]]
+
+::Operational Data Steward Choice
+# Data Steward Perspective in Operational/Functional Framing
+
+Choose an asymptote to explore:
+
+(link-storylet: 9, "No storylets available")
+
+[[Return to Operational Framing->Operational Framing Choice]]
+
+::Operational End-User Choice
+# End-User Perspective in Operational/Functional Framing
+
+Choose an asymptote to explore:
+
+(link-storylet: 10, "No storylets available")
+
+[[Return to Operational Framing->Operational Framing Choice]]
+
+::Choice Setup [script]
+(set: $framing to "")
+(set: $perspective to "")
+(set: $asymptote to "")
+
+::Researcher OpenScience Lifecycle [researcher openscience lifecycle]
+(storylet: when $framing is "lifecycle" and $perspective is "researcher")
+
+# Researcher × Open Science in Research Lifecycle
+
+As a researcher, your approach to Open Science within the research lifecycle includes:
+
+* Planning data sharing strategies before collection begins
+* Documenting methodologies with public accessibility in mind
+* Balancing openness with necessary privacy protections
+
+What would you like to do next?
+
+[[Explore a different asymptote->Lifecycle Researcher Choice]]
+[[Return to Lifecycle Framing->Lifecycle Framing Choice]]
+
+::Researcher Reproducibility Lifecycle [researcher reproducibility lifecycle]
+(storylet: when $framing is "lifecycle" and $perspective is "researcher")
+
+# Researcher × Reproducibility in Research Lifecycle
+
+As a researcher pursuing reproducibility throughout the research lifecycle:
+
+* Maintain comprehensive logs of all methodological decisions
+* Preserve raw data alongside processed results
+* Document computational environments and software dependencies
+
+What would you like to do next?
+
+[[Explore a different asymptote->Lifecycle Researcher Choice]]
+[[Return to Lifecycle Framing->Lifecycle Framing Choice]]
+
+::Researcher Preservation Lifecycle [researcher preservation lifecycle]
+(storylet: when $framing is "lifecycle" and $perspective is "researcher")
+
+# Researcher × Preservation in Research Lifecycle
+
+As a researcher focusing on preservation throughout the research lifecycle:
+
+* Select file formats that prioritize long-term accessibility
+* Create rich metadata during active research, not retrospectively
+* Design projects with post-completion data value in mind
+
+What would you like to do next?
+
+[[Explore a different asymptote->Lifecycle Researcher Choice]]
+[[Return to Lifecycle Framing->Lifecycle Framing Choice]]
+
+::Institutional OpenScience Lifecycle [institutional openscience lifecycle]
+(storylet: when $framing is "lifecycle" and $perspective is "institutional")
+
+# Institutional × Open Science in Research Lifecycle
+
+From an institutional perspective, supporting Open Science throughout the research lifecycle means:
+
+* Developing infrastructure that facilitates data discovery
+* Creating incentive structures rewarding data sharing
+* Balancing intellectual property concerns with openness mandates
+
+What would you like to do next?
+
+[[Explore a different asymptote->Lifecycle Institutional Choice]]
+[[Return to Lifecycle Framing->Lifecycle Framing Choice]]
+
+::Institutional Reproducibility Lifecycle [institutional reproducibility lifecycle]
+(storylet: when $framing is "lifecycle" and $perspective is "institutional")
+
+# Institutional × Reproducibility in Research Lifecycle
+
+From an institutional perspective, supporting reproducibility throughout the research lifecycle means:
+
+* Implementing standardized protocols across departments
+* Providing centralized validation services for research outputs
+* Supporting computational resources for replication studies
+
+What would you like to do next?
+
+[[Explore a different asymptote->Lifecycle Institutional Choice]]
+[[Return to Lifecycle Framing->Lifecycle Framing Choice]]
+
+::Institutional Preservation Lifecycle [institutional preservation lifecycle]
+(storylet: when $framing is "lifecycle" and $perspective is "institutional")
+
+# Institutional × Preservation in Research Lifecycle
+
+From an institutional perspective, supporting preservation throughout the research lifecycle means:
+
+* Allocating sustainable resources for maintenance beyond project lifespans
+* Developing succession planning for valuable datasets
+* Creating tiered preservation strategies based on data significance
+
+What would you like to do next?
+
+[[Explore a different asymptote->Lifecycle Institutional Choice]]
+[[Return to Lifecycle Framing->Lifecycle Framing Choice]]
+
+::Funder OpenScience Lifecycle [funder openscience lifecycle]
+(storylet: when $framing is "lifecycle" and $perspective is "funder")
+
+# Funder × Open Science in Research Lifecycle
+
+From a funder's perspective, supporting Open Science throughout the research lifecycle means:
+
+* Requiring detailed data management plans in grant applications
+* Funding infrastructure supporting collaborative research
+* Developing metrics measuring the impact of shared data
+
+What would you like to do next?
+
+[[Explore a different asymptote->Lifecycle Funder Choice]]
+[[Return to Lifecycle Framing->Lifecycle Framing Choice]]
+
+::Funder Reproducibility Lifecycle [funder reproducibility lifecycle]
+(storylet: when $framing is "lifecycle" and $perspective is "funder")
+
+# Funder × Reproducibility in Research Lifecycle
+
+From a funder's perspective, supporting reproducibility throughout the research lifecycle means:
+
+* Allocating funding specifically for validation studies
+* Requiring machine-readable protocols in funded research
+* Supporting independent verification of high-impact findings
+
+What would you like to do next?
+
+[[Explore a different asymptote->Lifecycle Funder Choice]]
+[[Return to Lifecycle Framing->Lifecycle Framing Choice]]
+
+::Funder Preservation Lifecycle [funder preservation lifecycle]
+(storylet: when $framing is "lifecycle" and $perspective is "funder")
+
+# Funder × Preservation in Research Lifecycle
+
+From a funder's perspective, supporting preservation throughout the research lifecycle means:
+
+* Creating sustainable funding models for data repositories
+* Developing cost-sharing approaches for long-term maintenance
+* Prioritizing preservation infrastructure as core scientific investment
+
+What would you like to do next?
+
+[[Explore a different asymptote->Lifecycle Funder Choice]]
+[[Return to Lifecycle Framing->Lifecycle Framing Choice]]
+
+::DataSteward OpenScience Lifecycle [data-steward openscience lifecycle]
+(storylet: when $framing is "lifecycle" and $perspective is "data-steward")
+
+# Data Steward × Open Science in Research Lifecycle
+
+From a data steward's perspective, supporting Open Science throughout the research lifecycle means:
+
+* Designing metadata schemas optimizing discoverability
+* Developing workflows simplifying the sharing process
+* Creating standards for appropriate data licensing
+
+What would you like to do next?
+
+[[Explore a different asymptote->Lifecycle Data Steward Choice]]
+[[Return to Lifecycle Framing->Lifecycle Framing Choice]]
+
+::DataSteward Reproducibility Lifecycle [data-steward reproducibility lifecycle]
+(storylet: when $framing is "lifecycle" and $perspective is "data-steward")
+
+# Data Steward × Reproducibility in Research Lifecycle
+
+From a data steward's perspective, supporting reproducibility throughout the research lifecycle means:
+
+* Implementing robust provenance tracking systems
+* Developing detailed standards for methodological documentation
+* Creating verification protocols for dataset integrity
+
+What would you like to do next?
+
+[[Explore a different asymptote->Lifecycle Data Steward Choice]]
+[[Return to Lifecycle Framing->Lifecycle Framing Choice]]
+
+::DataSteward Preservation Lifecycle [data-steward preservation lifecycle]
+(storylet: when $framing is "lifecycle" and $perspective is "data-steward")
+
+# Data Steward × Preservation in Research Lifecycle
+
+From a data steward's perspective, supporting preservation throughout the research lifecycle means:
+
+* Designing migration strategies for evolving technologies
+* Implementing integrity checking and format validation
+* Creating specialized preservation metadata standards
+
+What would you like to do next?
+
+[[Explore a different asymptote->Lifecycle Data Steward Choice]]
+[[Return to Lifecycle Framing->Lifecycle Framing Choice]]
+
+::EndUser OpenScience Lifecycle [end-user openscience lifecycle]
+(storylet: when $framing is "lifecycle" and $perspective is "end-user")
+
+# End-User × Open Science in Research Lifecycle
+
+From an end-user's perspective, engaging with Open Science throughout the research lifecycle means:
+
+* Developing intuitive interfaces for data discovery
+* Creating translation layers for technical metadata
+* Designing systems for community feedback on datasets
+
+What would you like to do next?
+
+[[Explore a different asymptote->Lifecycle End-User Choice]]
+[[Return to Lifecycle Framing->Lifecycle Framing Choice]]
+
+::EndUser Reproducibility Lifecycle [end-user reproducibility lifecycle]
+(storylet: when $framing is "lifecycle" and $perspective is "end-user")
+
+# End-User × Reproducibility in Research Lifecycle
+
+From an end-user's perspective, engaging with reproducibility throughout the research lifecycle means:
+
+* Providing clear documentation of data transformations
+* Ensuring transparency in analytical limitations
+* Enabling verification without specialized expertise
+
+What would you like to do next?
+
+[[Explore a different asymptote->Lifecycle End-User Choice]]
+[[Return to Lifecycle Framing->Lifecycle Framing Choice]]
+
+::EndUser Preservation Lifecycle [end-user preservation lifecycle]
+(storylet: when $framing is "lifecycle" and $perspective is "end-user")
+
+# End-User × Preservation in Research Lifecycle
+
+From an end-user's perspective, engaging with preservation throughout the research lifecycle means:
+
+* Ensuring contextual information persists alongside data
+* Maintaining usability as technologies evolve
+* Preserving interpretability for future generations
+
+What would you like to do next?
+
+[[Explore a different asymptote->Lifecycle End-User Choice]]
+[[Return to Lifecycle Framing->Lifecycle Framing Choice]]
+
+::Researcher OpenScience Operational [researcher openscience operational]
+(storylet: when $framing is "operational" and $perspective is "researcher")
+
+# Researcher × Open Science in Operational/Functional Framing
+
+As a researcher operationalizing Open Science:
+
+* Utilize collaborative platforms enabling real-time sharing
+* Implement automated metadata generation tools
+* Adopt standardized identifiers for datasets and contributors
+
+What would you like to do next?
+
+[[Explore a different asymptote->Operational Researcher Choice]]
+[[Return to Operational Framing->Operational Framing Choice]]
+
+::Researcher Reproducibility Operational [researcher reproducibility operational]
+(storylet: when $framing is "operational" and $perspective is "researcher")
+
+# Researcher × Reproducibility in Operational/Functional Framing
+
+As a researcher operationalizing reproducibility:
+
+* Employ version control for all data and code
+* Document computational environments comprehensively
+* Maintain decision logs throughout the research process
+
+What would you like to do next?
+
+[[Explore a different asymptote->Operational Researcher Choice]]
+[[Return to Operational Framing->Operational Framing Choice]]
+
+::Researcher Preservation Operational [researcher preservation operational]
+(storylet: when $framing is "operational" and $perspective is "researcher")
+
+# Researcher × Preservation in Operational/Functional Framing
+
+As a researcher operationalizing preservation:
+
+* Organize files following community best practices
+* Select preservation-friendly file formats from project start
+* Document tacit knowledge alongside formal procedures
+
+What would you like to do next?
+
+[[Explore a different asymptote->Operational Researcher Choice]]
+[[Return to Operational Framing->Operational Framing Choice]]
+
+::Institutional OpenScience Operational [institutional openscience operational]
+(storylet: when $framing is "operational" and $perspective is "institutional")
+
+# Institutional × Open Science in Operational/Functional Framing
+
+From an institutional perspective, operationalizing Open Science means:
+
+* Developing technical infrastructure supporting data publication
+* Creating specialized staff positions for open science support
+* Implementing recognition systems for data sharing contributions
+
+What would you like to do next?
+
+[[Explore a different asymptote->Operational Institutional Choice]]
+[[Return to Operational Framing->Operational Framing Choice]]
+
+::Institutional Reproducibility Operational [institutional reproducibility operational]
+(storylet: when $framing is "operational" and $perspective is "institutional")
+
+# Institutional × Reproducibility in Operational/Functional Framing
+
+From an institutional perspective, operationalizing reproducibility means:
+
+* Establishing quality assurance procedures across departments
+* Providing computational environments mirroring original research
+* Creating institutional repositories documenting methodologies
+
+What would you like to do next?
+
+[[Explore a different asymptote->Operational Institutional Choice]]
+[[Return to Operational Framing->Operational Framing Choice]]
+
+::Institutional Preservation Operational [institutional preservation operational]
+(storylet: when $framing is "operational" and $perspective is "institutional")
+
+# Institutional × Preservation in Operational/Functional Framing
+
+From an institutional perspective, operationalizing preservation means:
+
+* Implementing digital preservation policies with technology refresh cycles
+* Developing institutional memory systems for research contexts
+* Creating distributed backup strategies with geographical redundancy
+
+What would you like to do next?
+
+[[Explore a different asymptote->Operational Institutional Choice]]
+[[Return to Operational Framing->Operational Framing Choice]]
+
+::Funder OpenScience Operational [funder openscience operational]
+(storylet: when $framing is "operational" and $perspective is "funder")
+
+# Funder × Open Science in Operational/Functional Framing
+
+From a funder's perspective, operationalizing Open Science means:
+
+* Developing compliance monitoring systems for data sharing
+* Creating funding mechanisms specifically for data publication
+* Establishing evaluation metrics for open science practices
+
+What would you like to do next?
+
+[[Explore a different asymptote->Operational Funder Choice]]
+[[Return to Operational Framing->Operational Framing Choice]]
+
+::Funder Reproducibility Operational [funder reproducibility operational]
+(storylet: when $framing is "operational" and $perspective is "funder")
+
+# Funder × Reproducibility in Operational/Functional Framing
+
+From a funder's perspective, operationalizing reproducibility means:
+
+* Implementing audit systems verifying methodological transparency
+* Funding infrastructure supporting computational reproducibility
+* Requiring machine-readable protocols in project deliverables
+
+What would you like to do next?
+
+[[Explore a different asymptote->Operational Funder Choice]]
+[[Return to Operational Framing->Operational Framing Choice]]
+
+::Funder Preservation Operational [funder preservation operational]
+(storylet: when $framing is "operational" and $perspective is "funder")
+
+# Funder × Preservation in Operational/Functional Framing
+
+From a funder's perspective, operationalizing preservation means:
+
+* Developing cost models quantifying long-term preservation needs
+* Funding transition periods between project completion and archiving
+* Creating specialized grants for data rescue and format migration
+
+What would you like to do next?
+
+[[Explore a different asymptote->Operational Funder Choice]]
+[[Return to Operational Framing->Operational Framing Choice]]
+
+::DataSteward OpenScience Operational [data-steward openscience operational]
+(storylet: when $framing is "operational" and $perspective is "data-steward")
+
+# Data Steward × Open Science in Operational/Functional Framing
+
+From a data steward's perspective, operationalizing Open Science means:
+
+* Implementing interoperability standards across repositories
+* Developing metadata enrichment processes enhancing discoverability
+* Creating automated validation for sharing compliance
+
+What would you like to do next?
+
+[[Explore a different asymptote->Operational Data Steward Choice]]
+[[Return to Operational Framing->Operational Framing Choice]]
+
+::DataSteward Reproducibility Operational [data-steward reproducibility operational]
+(storylet: when $framing is "operational" and $perspective is "data-steward")
+
+# Data Steward × Reproducibility in Operational/Functional Framing
+
+From a data steward's perspective, operationalizing reproducibility means:
+
+* Designing provenance tracking systems capturing transformations
+* Developing computational environment documentation standards
+* Creating structured validation protocols for dataset integrity
+
+What would you like to do next?
+
+[[Explore a different asymptote->Operational Data Steward Choice]]
+[[Return to Operational Framing->Operational Framing Choice]]
+
+::DataSteward Preservation Operational [data-steward preservation operational]
+(storylet: when $framing is "operational" and $perspective is "data-steward")
+
+# Data Steward × Preservation in Operational/Functional Framing
+
+From a data steward's perspective, operationalizing preservation means:
+
+* Implementing format migration workflows responding to obsolescence
+* Developing fixity checking routines verifying data integrity
+* Creating specialized preservation metadata extraction tools
+
+What would you like to do next?
+
+[[Explore a different asymptote->Operational Data Steward Choice]]
+[[Return to Operational Framing->Operational Framing Choice]]
+
+::EndUser OpenScience Operational [end-user openscience operational]
+(storylet: when $framing is "operational" and $perspective is "end-user")
+
+# End-User × Open Science in Operational/Functional Framing
+
+From an end-user's perspective, operationalizing Open Science means:
+
+* Designing simplified access mechanisms for diverse users
+* Developing data literacy tools supporting broad understanding
+* Creating feedback channels improving dataset quality
+
+What would you like to do next?
+
+[[Explore a different asymptote->Operational End-User Choice]]
+[[Return to Operational Framing->Operational Framing Choice]]
+
+::EndUser Reproducibility Operational [end-user reproducibility operational]
+(storylet: when $framing is "operational" and $perspective is "end-user")
+
+# End-User × Reproducibility in Operational/Functional Framing
+
+From an end-user's perspective, operationalizing reproducibility means:
+
+* Creating visualizations illustrating data lineage
+* Developing accessible documentation of processing steps
+* Designing verification tools requiring minimal technical knowledge
+
+What would you like to do next?
+
+[[Explore a different asymptote->Operational End-User Choice]]
+[[Return to Operational Framing->Operational Framing Choice]]
+
+::EndUser Preservation Operational [end-user preservation operational]
+(storylet: when $framing is "operational" and $perspective is "end-user")
+
+# End-User × Preservation in Operational/Functional Framing
+
+From an end-user's perspective, operationalizing preservation means:
+
+* Engaging communities in defining long-term value criteria
+* Creating contextual preservation ensuring future interpretability
+* Developing translation layers bridging technological generations
+
+What would you like to do next?
+
+[[Explore a different asymptote->Operational End-User Choice]]
+[[Return to Operational Framing->Operational Framing Choice]]
+
+::Lifecycle Researcher Setup [script]
+(set: $framing to "lifecycle")
+(set: $perspective to "researcher")
+
+::Lifecycle Institutional Setup [script]
+(set: $framing to "lifecycle")
+(set: $perspective to "institutional")
+
+::Lifecycle Funder Setup [script]
+(set: $framing to "lifecycle")
+(set: $perspective to "funder")
+
+::Lifecycle DataSteward Setup [script]
+(set: $framing to "lifecycle")
+(set: $perspective to "data-steward")
+
+::Lifecycle EndUser Setup [script]
+(set: $framing to "lifecycle")
+(set: $perspective to "end-user")
+
+::Operational Researcher Setup [script]
+(set: $framing to "operational")
+(set: $perspective to "researcher")
+
+::Operational Institutional Setup [script]
+(set: $framing to "operational")
+(set: $perspective to "institutional")
+
+::Operational Funder Setup [script]
+(set: $framing to "operational")
+(set: $perspective to "funder")
+
+::Operational DataSteward Setup [script]
+(set: $framing to "operational")
+(set: $perspective to "data-steward")
+
+::Operational EndUser Setup [script]
+(set: $framing to "operational")
+(set: $perspective to "end-user")
+
+::stylesheet [stylesheet]
+body {
+  font-family: "Segoe UI", Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  color: #333;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1, h2, h3 {
+  color: #2c3e50;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+tw-link {
+  color: #3498db;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+tw-link:hover {
+  color: #2980b9;
+  text-decoration: underline;
+}
+
+ul, ol {
+  margin-left: 20px;
+  margin-bottom: 1.5em;
+}
+
+li {
+  margin-bottom: 0.5em;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #eee;
+  margin: 2em 0;
+}
